@@ -1,4 +1,3 @@
-# Bio
 <h1 align="center">Hola!, Yo soy Joaquín Emilio Huayllasco López</h1>
 <h3 align="center">Soy un apasionado estudiante de Ingeniería de Sistemas de Información, con un amor especial por el desarrollo Front-End. Mi objetivo es crear experiencias web cautivadoras y funcionales que mejoren la forma en que interactuamos con la tecnología.</h3>
 
